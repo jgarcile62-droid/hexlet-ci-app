@@ -1,4 +1,4 @@
-[![CI](https://github.com/jgarcile62-driod/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/jgarcile62-driod/hexlet-ci-app/actions/workflows/main.yml)
+[![CI](https://github.com/jgarcil62-droid/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/jgarcil62-droid/hexlet-ci-app/actions/workflows/main.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
